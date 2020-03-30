@@ -131,3 +131,4 @@ dmypy.json
 # Igonre data and models
 models/
 data/
+runs/
