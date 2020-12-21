@@ -132,3 +132,7 @@ dmypy.json
 models/
 data/
 runs/
+pytorch_objectdetecttrack/
+Keypoints-of-humanpose-with-Mask-R-CNN/
+human_pose_estimation/
+
